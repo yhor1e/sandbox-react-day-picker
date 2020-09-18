@@ -1,0 +1,11 @@
+.DayPicker-Day--sat {
+  color: blue;
+}
+
+.DayPicker-Day--sun {
+  color: red;
+}
+
+.DayPicker-Day--holiday {
+  color: red;
+}
